@@ -1,0 +1,137 @@
+body {
+    background-image: url("galaksi.jpg");
+}
+h1{
+    text-indent: 20px;
+    text-align: center;
+    letter-spacing: 3px;
+    word-spacing: 5px;
+     color: blue;
+}
+.tekst1{
+    text-indent: 20px;
+    text-align: center;
+    letter-spacing: 3px;
+    word-spacing: 5px;
+    width: 500px;
+    padding: 20px;
+    margin: auto;
+    color: white;
+    border-style: solid;
+    border-width: 5px;
+    border-radius: 20px;
+    border-color: blue;
+    border-block-end-color: white;
+    border-left-color: white;
+    background-color: black;
+}
+
+.insta{
+    border-style: solid;
+    border-width: 5px;
+    border-radius: 20px;
+    border-color: blue;
+    border-block-end-color: white;
+    border-left-color: white;
+    background-color: black; 
+    width: 50px;
+    position: absolute;
+    left: 46%;
+    padding: 3px;
+}
+.fb{
+    border-style: solid;
+    border-width: 5px;
+    border-radius: 20px;
+    border-color: blue;
+    border-block-end-color: white;
+    border-left-color: white;
+    background-color: black;
+    width: 50px;
+    position: absolute;
+    left: 51%;
+    padding: 3px;
+}
+
+#rodni{
+    position: absolute;
+    border-style: solid;
+    border-width: 5px;
+    border-radius: 20px;
+    border-color: blue;
+    border-block-end-color: white;
+    border-left-color: white;
+    background-color: black;
+    right: 300px;
+}
+
+
+#boravak{
+    position: absolute;
+    border-style: solid;
+    border-width: 5px;
+    border-radius: 20px;
+    border-color: blue;
+    border-block-end-color: white;
+    border-left-color: white;
+    background-color: black;
+    left: 300px;
+}
+.kontakt{
+    color: white;
+    letter-spacing: 3px;
+    position: absolute;
+    bottom: -70px;
+    left: 48%;
+}
+
+.palanka{
+    text-align: justify;
+    color: white;
+    position: absolute;
+    width: 300px;
+    right: 350px;
+    bottom: 140px;
+    letter-spacing: 2px;
+    word-spacing: 3px;
+    text-decoration: none;
+    text-decoration: underline blue;
+}
+.plana{
+    text-align: justify;
+    color: white;
+    position: absolute;
+    width: 300px;
+    left: 350px;
+    bottom: 140px;
+    letter-spacing: 2px;
+    word-spacing: 3px;
+    text-decoration: none;
+    text-decoration: underline blue;
+}
+a{
+    color: white;
+}
+.tekst2{
+    text-indent: 20px;
+    text-align: center;
+    letter-spacing: 3px;
+    word-spacing: 5px;
+    width: 500px;
+    padding: 20px;
+    margin: auto;
+    color: white;
+    border-style: solid;
+    border-width: 5px;
+    border-radius: 20px;
+    border-color: blue;
+    border-block-end-color: white;
+    border-left-color: white;
+    background-color: black;
+}
+.back{
+    position: absolute;
+width: 150px;
+left: 600px;
+padding: 50px;
+}

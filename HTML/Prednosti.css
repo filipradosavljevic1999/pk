@@ -1,0 +1,54 @@
+body {
+    background-image: url("galaksi.jpg");
+}
+h1{
+    text-indent: 20px;
+    text-align: center;
+    letter-spacing: 3px;
+    word-spacing: 5px;
+     color: blue;
+}
+.nab{
+    text-align: justify;
+}
+#k1{
+    text-indent: 2px;
+    text-align: center;
+    letter-spacing: 3px;
+    word-spacing: 5px;
+    width: 600px;
+    padding: 20px;
+    color: white;
+    border-style: solid;
+    border-width: 5px;
+    border-radius: 20px;
+    border-color: blue;
+    border-block-end-color: white;
+    border-left-color: white;
+    margin: auto;
+    background-color: black;
+}
+.nab1{
+    text-indent: 2px;
+    text-align: justify;
+    letter-spacing: 3px;
+    word-spacing: 5px;
+    width: 600px;
+    padding: 20px;
+    color: white;
+    border-style: solid;
+    border-width: 5px;
+    border-radius: 20px;
+    border-color: blue;
+    border-block-end-color: white;
+    border-left-color: white;
+    margin: auto;
+    background-color: black;
+}
+.back{
+    position: absolute;
+width: 150px;
+left: 600px;
+padding:  50px;
+margin: auto;
+}
